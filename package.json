@@ -1,0 +1,21 @@
+{
+  "name": "interactive-card-details-form-main",
+  "version": "1.0.0",
+  "description": "Design preview for the Interactive card details form",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xJomaMPx/interactive-card-detail-form.git"
+  },
+  "keywords": [
+    "card",
+    "form",
+    "interactive"
+  ],
+  "author": "JomaMP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xJomaMPx/interactive-card-detail-form/issues"
+  },
+  "homepage": "https://github.com/xJomaMPx/interactive-card-detail-form#readme"
+}
